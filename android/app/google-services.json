@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547135967103",
+    "firebase_url": "https://e-dey-shop-android.firebaseio.com",
+    "project_id": "e-dey-shop-android",
+    "storage_bucket": "e-dey-shop-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547135967103:android:1ccb98067710bcd673944a",
+        "android_client_info": {
+          "package_name": "com.deonolarewaju.cowrywebviewsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547135967103-860n0n8ir6s6qlih8nem1rg9aaqhbcta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_upL0cSPJXgZwaGqfliVlo51PDBq8Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547135967103-860n0n8ir6s6qlih8nem1rg9aaqhbcta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
